@@ -20,6 +20,7 @@ Report your findings including job title, salary and projected growth. You can u
 
 ## Professional Membership
 * Pick one of the IT organizations like IEEE or ACM or a student club and report the purpose of the organization and why membership would be beneficial.
+Organizations like the ACM are benificial as they can further extend someones knowledge about IT.
 
 # Conclusion
 Summary of your understanding from this week's lab
