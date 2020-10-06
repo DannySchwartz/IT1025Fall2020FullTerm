@@ -14,13 +14,19 @@ Report your findings including job title, salary and projected growth. You can u
 ## Industry Certification
 * Explore a certification and report your findings. (CompTIA , Cisco , CISSP or any other certification)
 
+
 ## College Certificates
 * Explore the Tri-C certificates at: Tri-C IT Programs and report on a certificate of interest (short-term or post-degree.)
 * Explain what you need to do to become co-op "ready" and the benefits of pursuing a co-op or internship
 
+To become co-op ready one must meet GPA requirements, the benifits of co-op allow someone to earn a degree while getting experience and getting paid.
+
 ## Professional Membership
 * Pick one of the IT organizations like IEEE or ACM or a student club and report the purpose of the organization and why membership would be beneficial.
+
 Organizations like the ACM are benificial as they can further extend someones knowledge about IT.
 
 # Conclusion
 Summary of your understanding from this week's lab
+
+There are both many carrer paths and organizations in IT that can be benificial and great.
