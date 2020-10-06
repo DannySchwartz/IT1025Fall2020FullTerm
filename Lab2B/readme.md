@@ -14,7 +14,7 @@ Report your findings including job title, salary and projected growth. You can u
 ## Industry Certification
 * Explore a certification and report your findings. (CompTIA , Cisco , CISSP or any other certification)
 
-
+There are many different possible certitications in the IT field, all of them sereve for proof that someone has a general understanding of a certain program or something of the sorts.
 ## College Certificates
 * Explore the Tri-C certificates at: Tri-C IT Programs and report on a certificate of interest (short-term or post-degree.)
 * Explain what you need to do to become co-op "ready" and the benefits of pursuing a co-op or internship
